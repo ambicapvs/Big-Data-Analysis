@@ -24,3 +24,34 @@ The first step of any Exploratory Data Analysis is to collect data. graphical ex
 
 The datasets collected for analysis of the COVID 19 vaccinations in the United States are gathered from different. These datasets are collected from the reliable and official sources like Kaggle, CDC, California Health, and Human Services Open Data Portal, Data.gov.
 Exploratory data analysis is performed on the dataset. The tools used for this project are python and PowerBI.
+
+
+**Dataset 1**
+
+This dataset contains the information about the total distributed vaccinations, total people vaccinated, date by locations which is useful for answering the research questions. There are also other columns in the dataset like people vaccinated by hundred, daily vaccinations etc.
+
+!     
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
