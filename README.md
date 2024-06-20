@@ -28,7 +28,7 @@ The datasets collected for analysis of the COVID 19 vaccinations in the United S
 **Multivariate Analysis-Linegraphs**
 
 
-*for detailed documentation refer edapython document.
+*for detailed documentation refer Covid_vacc_eda document.
 
 
 
