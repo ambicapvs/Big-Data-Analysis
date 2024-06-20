@@ -13,24 +13,26 @@ different states of the US? What is the most distributed vaccine in the United S
 ## Methodology
 ### Exploratory data analysis:
 
-Exploratory data analysis is the method used to explore the data, identify patterns in the data, visualize the data and use the data for modelling, identify underlying features in the data and find the relationship between the datasets. The data collected from different sources need to be imported and merged if necessary to visualize the information present in the data.
+Exploratory data analysis is the method used to explore the data, identify patterns in the data, visualize the data and use the data for modelling, identify underlying features in the data and find the relationship between the datasets. The data collected from different sources need to be imported and merged if necessary to visualize the information present in the data.The tools used for this project are python and PowerBI.The datasets are collected from the reliable and official sources like Kaggle, CDC, California Health, and Human Services Open Data Portal, Data.gov.
 
-Python libraries like pandas, NumPy, seaborn, matplotlib are used to perform Exploratory data analysis on the datasets collected. Pandas, a library of Python is used to work and manipulate the datasets. NumPy library is used for dealing with numerical values present in the data set Seaborn and Matplotlib libraries are used for data visualization. Seaborn provides beautiful default styles and colour palettes to make the visualizations more attractive. The functions like drop () are used to drop all the irrelevant columns of the dataset.
- 
-PowerBI provides all the tools and graphs to create different types of visuals which helps in efficient communication of data. PowerBI extracts data from different formats of data such as Excel, CSV, web etc. The extracted data can be transformed by the ETL process which makes the data more understandable and in return makes the visuals efficient. The visuals combined with EDA provide an efficient way to analyze the information and underlying data. However, both the simple and complex ideas must be communicating with clarity, precision and efficiency.
+Python libraries like pandas, NumPy, seaborn, matplotlib are used to perform Exploratory data analysis on the datasets collected. PowerBI provides all the tools and graphs to create different types of visuals which helps in efficient communication of data. PowerBI extracts data from different formats of data such as Excel, CSV, web etc. The extracted data can be transformed by the ETL process which makes the data more understandable and in return makes the visuals efficient. The visuals combined with EDA provide an efficient way to analyze the information and underlying data. However, both the simple and complex ideas must be communicating with clarity, precision and efficiency.
 
-### Data collection and Data cleaning:
 The first step of any Exploratory Data Analysis is to collect data. graphical excellence principle requires telling truth about the data. So, it is important that the data collected should be good and reliable. The datasets collected from the sources contain many missing/null values, empty values, garbage values. It is important to clean the data before using for modelling or visualization. The datasets after cleaning are as shown in the below figs.
 
-The datasets collected for analysis of the COVID 19 vaccinations in the United States are gathered from different. These datasets are collected from the reliable and official sources like Kaggle, CDC, California Health, and Human Services Open Data Portal, Data.gov.
-Exploratory data analysis is performed on the dataset. The tools used for this project are python and PowerBI.
+The datasets collected for analysis of the COVID 19 vaccinations in the United States are gathered from different. These datasets are collected from the reliable and official sources like Kaggle, CDC, California Health, and Human Services Open Data Portal, Data.gov. We used various analysis using phython and powerBI dashboard to answer out research questions.
+
+**Univariate Data analysis-Histograms**
+
+**Bivariate Data Analysis-Correlation plots,Heat maps,Pair plots**
+
+**Multivariate Analysis-Linegraphs**
 
 
-**Dataset 1**
+*for detailed documentation refer edapython document.
 
-This dataset contains the information about the total distributed vaccinations, total people vaccinated, date by locations which is useful for answering the research questions. There are also other columns in the dataset like people vaccinated by hundred, daily vaccinations etc.
 
-!     
+
+   
 
 
           
